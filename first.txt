@@ -1,2 +1,3 @@
 this is version 1
 this is version 2 and added to staged area
+this file has been modified
